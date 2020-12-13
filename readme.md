@@ -2,4 +2,4 @@
 
 https://instaclone1802.herokuapp.com/
 
-create, view, like-dislike posts
+Create and manage profile, create, view, like-dislike posts
